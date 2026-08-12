@@ -1,0 +1,274 @@
+[
+  {
+    "id": "x-mm-h3-01",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "ABC 儿童学习动画",
+        "en": "ABC Learning Explainer"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "Create a 15-second animated educational video that teaches young children the letters A, B, C, and D.\n\nThe learning pattern for every letter must be:\n\nLETTER → SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME\n\nTarget audience: children ages 3 to 6.\n\nVisual style:\nUse adorable rounded 3D characters, soft pastel colors, gentle facial expressions, and simple recognizable objects. Combine this with a premium minimalist technology aesthetic featuring clean white space, elegant composition, soft studio lighting, subtle reflections, smooth gradients, rounded geometry, crisp typography, and extremely polished transitions.\n\nThe animation should feel playful and child-friendly while remaining calm, uncluttered, and beautifully designed.\n\nUse a clean off-white background with a different soft color glow behind each letter.\n\n0:00–0:01 | Introduction\nA small smiling star mascot bounces into the center of the screen.\n\nColorful letters briefly float around it.\n\nDisplay the text:\n\n“Let’s learn!”\n\nThe mascot taps the screen, creating a soft ripple that reveals the first letter.\n\n0:01–0:04 | A is for Apple\n\nShow a large uppercase “A” and smaller lowercase “a” beside it.\nUse thick, rounded, highly readable typography.\n\nThe narrator says:\n\n“A. A says ah. A is for Apple.”\n\nThe uppercase A gently inflates and transforms into a shiny red apple.\n\nIts top point becomes the apple stem, and a small green leaf unfolds from the side.\n\nThe apple gains a cute smiling face and performs one soft bounce.\n\nDisplay the word:\n\n“APPLE”\n\nHighlight the first letter A in red.\n\nAdd a soft pop and a tiny crunchy sound.\n\n0:04–0:07 | B is for Ball\n\nThe apple rolls across the screen and leaves behind a curved red trail.\n\nThe trail loops twice and forms a large uppercase “B,” with a lowercase “b” appearing beside it.\nThe narrator says:\n\n“B. B says buh. B is for Ball.”\n\nThe two rounded sections of the B expand and merge into a colorful striped ball.\n\nThe ball bounces twice with playful squash-and-stretch animation.\n\nDisplay the word:\n\n“BALL”\n\nHighlight the first letter B in blue.\n\nSynchronize each bounce with a soft musical note.\n\n0:07–0:10 | C is for Cat\n\nOn its final bounce, the ball stretches into a curved shape and becomes a large uppercase “C.”\n\nA lowercase “c” slides gently into place beside it.\n\nThe narrator says:\n“C. C says kuh. C is for Cat.”\n\nThe C rotates and becomes the curled tail of a cute orange cat.\n\nThe rest of the cat forms from soft rounded shapes.\n\nThe cat stretches, blinks, and gives one gentle wave with its paw.\n\nDisplay the word:\n\n“CAT”\n\nHighlight the first letter C in orange.\n\nAdd a quiet and friendly “meow.”\n\n0:10–0:13 | D is for Duck\n\nThe cat’s tail uncurls and transforms into the curved side of a large uppercase “D.”\n\nA lowercase “d” pops up beside it.\n\nThe narrator says:\n\n“D. D says duh. D is for Duck.”\nThe straight line of the D becomes the duck’s neck.\n\nThe curved section becomes its round yellow body.\n\nA small orange beak and two tiny wings pop into place.\n\nThe duck waddles forward, flaps its wings, and gives one cheerful quack.\n\nDisplay the word:\n\n“DUCK”\n\nHighlight the first letter D in yellow.\n\nAdd tiny water ripples beneath its feet.\n\n0:13–0:15 | Recap\n\nThe apple, ball, cat, and duck slide into four clean rounded tiles.\n\nPlace their letters above them:\n\n“A  B  C  D”\n\nThe mascot returns and points to each object as they bounce once in sequence.\n\nNarrator:\n“A, B, C, D. Great job!”\n\nFinish with the text:\n\n“Great job!”\n\nUse a small sparkle animation and a warm musical chime.\n\nAnimation requirements:\n\nKeep each letter fully visible for a moment before it transforms.\n\nShow uppercase and lowercase versions clearly.\n\nMake every object instantly recognizable.\n\nUse smooth shape morphing so children can visually understand how the letter becomes the object.\n\nMaintain stable spelling, clean letterforms, accurate object shapes, and consistent character design.\n\nUse gentle squash-and-stretch, soft motion blur, subtle shadows, polished lighting, and precisely synchronized sound effects.\nAvoid fast camera movement, cluttered backgrounds, harsh colors, tiny text, warped letters, random symbols, duplicated objects, scary expressions, or overly complex transformations.\n\nThe final video should feel cute, educational, memorable, calming, and exceptionally polished.",
+        "en": "Create a 15-second animated educational video that teaches young children the letters A, B, C, and D.\n\nThe learning pattern for every letter must be:\n\nLETTER → SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME\n\nTarget audience: children ages 3 to 6.\n\nVisual style:\nUse adorable rounded 3D characters, soft pastel colors, gentle facial expressions, and simple recognizable objects. Combine this with a premium minimalist technology aesthetic featuring clean white space, elegant composition, soft studio lighting, subtle reflections, smooth gradients, rounded geometry, crisp typography, and extremely polished transitions.\n\nThe animation should feel playful and child-friendly while remaining calm, uncluttered, and beautifully designed.\n\nUse a clean off-white background with a different soft color glow behind each letter.\n\n0:00–0:01 | Introduction\nA small smiling star mascot bounces into the center of the screen.\n\nColorful letters briefly float around it.\n\nDisplay the text:\n\n“Let’s learn!”\n\nThe mascot taps the screen, creating a soft ripple that reveals the first letter.\n\n0:01–0:04 | A is for Apple\n\nShow a large uppercase “A” and smaller lowercase “a” beside it.\nUse thick, rounded, highly readable typography.\n\nThe narrator says:\n\n“A. A says ah. A is for Apple.”\n\nThe uppercase A gently inflates and transforms into a shiny red apple.\n\nIts top point becomes the apple stem, and a small green leaf unfolds from the side.\n\nThe apple gains a cute smiling face and performs one soft bounce.\n\nDisplay the word:\n\n“APPLE”\n\nHighlight the first letter A in red.\n\nAdd a soft pop and a tiny crunchy sound.\n\n0:04–0:07 | B is for Ball\n\nThe apple rolls across the screen and leaves behind a curved red trail.\n\nThe trail loops twice and forms a large uppercase “B,” with a lowercase “b” appearing beside it.\nThe narrator says:\n\n“B. B says buh. B is for Ball.”\n\nThe two rounded sections of the B expand and merge into a colorful striped ball.\n\nThe ball bounces twice with playful squash-and-stretch animation.\n\nDisplay the word:\n\n“BALL”\n\nHighlight the first letter B in blue.\n\nSynchronize each bounce with a soft musical note.\n\n0:07–0:10 | C is for Cat\n\nOn its final bounce, the ball stretches into a curved shape and becomes a large uppercase “C.”\n\nA lowercase “c” slides gently into place beside it.\n\nThe narrator says:\n“C. C says kuh. C is for Cat.”\n\nThe C rotates and becomes the curled tail of a cute orange cat.\n\nThe rest of the cat forms from soft rounded shapes.\n\nThe cat stretches, blinks, and gives one gentle wave with its paw.\n\nDisplay the word:\n\n“CAT”\n\nHighlight the first letter C in orange.\n\nAdd a quiet and friendly “meow.”\n\n0:10–0:13 | D is for Duck\n\nThe cat’s tail uncurls and transforms into the curved side of a large uppercase “D.”\n\nA lowercase “d” pops up beside it.\n\nThe narrator says:\n\n“D. D says duh. D is for Duck.”\nThe straight line of the D becomes the duck’s neck.\n\nThe curved section becomes its round yellow body.\n\nA small orange beak and two tiny wings pop into place.\n\nThe duck waddles forward, flaps its wings, and gives one cheerful quack.\n\nDisplay the word:\n\n“DUCK”\n\nHighlight the first letter D in yellow.\n\nAdd tiny water ripples beneath its feet.\n\n0:13–0:15 | Recap\n\nThe apple, ball, cat, and duck slide into four clean rounded tiles.\n\nPlace their letters above them:\n\n“A  B  C  D”\n\nThe mascot returns and points to each object as they bounce once in sequence.\n\nNarrator:\n“A, B, C, D. Great job!”\n\nFinish with the text:\n\n“Great job!”\n\nUse a small sparkle animation and a warm musical chime.\n\nAnimation requirements:\n\nKeep each letter fully visible for a moment before it transforms.\n\nShow uppercase and lowercase versions clearly.\n\nMake every object instantly recognizable.\n\nUse smooth shape morphing so children can visually understand how the letter becomes the object.\n\nMaintain stable spelling, clean letterforms, accurate object shapes, and consistent character design.\n\nUse gentle squash-and-stretch, soft motion blur, subtle shadows, polished lighting, and precisely synchronized sound effects.\nAvoid fast camera movement, cluttered backgrounds, harsh colors, tiny text, warped letters, random symbols, duplicated objects, scary expressions, or overly complex transformations.\n\nThe final video should feel cute, educational, memorable, calming, and exceptionally polished."
+      }
+    },
+    "src": "x-mm-h3-01.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/umesh_ai/status/2084227244533411987",
+      "threadUrl": "https://twitter-thread.com/t/2084227244533411987",
+      "author": {
+        "name": "Umesh",
+        "username": "umesh_ai"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "complete"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/fecbdb24-fafc-4c1f-8d8f-af8edb184366"
+  },
+  {
+    "id": "x-mm-h3-02",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "街头摄影师抓拍瞬间",
+        "en": "Street Photographer Candid Moment"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "A young Western female street photographer walks through a lively downtown street and notices an elderly man sitting outside a café with his small dog. She carefully composes the candid moment through her camera, captures the photo, then turns the camera toward the viewer to proudly show the shot she just took. She smiles, says “Look at that,” then continues walking through the city. Ultra-photorealistic visuals, natural handheld documentary movement, realistic camera interaction, authentic facial expressions, accurate hand movements, realistic dog behavior, natural daylight, cinematic depth of field, continuous character consistency, immersive city ambience, premium documentary realism.",
+        "en": "A young Western female street photographer walks through a lively downtown street and notices an elderly man sitting outside a café with his small dog. She carefully composes the candid moment through her camera, captures the photo, then turns the camera toward the viewer to proudly show the shot she just took. She smiles, says “Look at that,” then continues walking through the city. Ultra-photorealistic visuals, natural handheld documentary movement, realistic camera interaction, authentic facial expressions, accurate hand movements, realistic dog behavior, natural daylight, cinematic depth of field, continuous character consistency, immersive city ambience, premium documentary realism."
+      }
+    },
+    "src": "x-mm-h3-02.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/aiwithaly/status/2087102541146522089",
+      "threadUrl": "https://twitter-thread.com/t/2087102541146522089",
+      "author": {
+        "name": "Ali",
+        "username": "aiwithaly"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "complete"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/73580897-499e-4d7b-b33f-f813d7e24304"
+  },
+  {
+    "id": "x-mm-h3-03",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "悬崖城市飞车追逐",
+        "en": "Speeder Chase Across a Cliff City"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the ledge, warning lights flashing. A collapsing balcony rains debris; the rider snaps a last-inch swerve under a falling arch, then threads through hanging laundry lines and open windows in one fluid line. The camera darts through the same openings, staying glued to the motion. One final bend and sudden calm: the camera blasts outward into a reveal of the city opening onto a boundless waterfall-fed valley, mist turning into rainbow.\n\n@Hailuo_AI  #MiniMaxH3",
+        "en": "Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the ledge, warning lights flashing. A collapsing balcony rains debris; the rider snaps a last-inch swerve under a falling arch, then threads through hanging laundry lines and open windows in one fluid line. The camera darts through the same openings, staying glued to the motion. One final bend and sudden calm: the camera blasts outward into a reveal of the city opening onto a boundless waterfall-fed valley, mist turning into rainbow.\n\n@Hailuo_AI  #MiniMaxH3"
+      }
+    },
+    "src": "x-mm-h3-03.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/umesh_ai/status/2082499539735588916",
+      "threadUrl": "https://twitter-thread.com/t/2082499539735588916",
+      "author": {
+        "name": "Umesh",
+        "username": "umesh_ai"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "complete"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/f181a998-ac6a-4402-b47b-c51fc4da833c"
+  },
+  {
+    "id": "x-mm-h3-04",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "本地生成展示",
+        "en": "Local Generation Showcase"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "[Prompt not available in the original tweet or archived thread as of 2026-08-12.]",
+        "en": "[Prompt not available in the original tweet or archived thread as of 2026-08-12.]"
+      }
+    },
+    "src": "x-mm-h3-04.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/venturetwins/status/2084298391107055692",
+      "threadUrl": "https://twitter-thread.com/t/2084298391107055692",
+      "author": {
+        "name": "Justine Moore",
+        "username": "venturetwins"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "missing"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/813dd424-5028-40f5-8575-282fd2096c79"
+  },
+  {
+    "id": "x-mm-h3-05",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "办公室金正恩笑场片段",
+        "en": "The Office Kim Jong Un Blooper"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "(Blooper take): The Office & Kim Jong Un. Entrance. 0:00–0:04 — Medium shot at the entrance of Dunder Mifflin. MICHAEL SCOTT opens the door with a huge excited smile as KIM JONG UN steps in. Michael immediately starts singing in a playful, childish sing-song voice while pointing at him: “Kim Jong Un, Kim Jong Un… the coolest guy under the sun!” doing a little rhythmic dance with his hands. 0:04–0:07 — Michael keeps the song going and starts giving soft friendly punches to Kim’s stomach to the rhythm: “Kim Jong Un, Kim Jong Un… don’t be sad, just have some fun!” 0:07–0:10 — Kim tries hard to keep a straight face, his lips tightly pressed together, but his shoulders start shaking. He can’t hold it anymore and bursts out laughing. 0:10–0:13 — Michael freezes mid-punch, looks at Kim laughing, and immediately cracks up too. 0:13–0:15 — Both of them are laughing hard. Michael can barely stand while still holding one fist up. The video ends on the two of them completely breaking character.",
+        "en": "(Blooper take): The Office & Kim Jong Un. Entrance. 0:00–0:04 — Medium shot at the entrance of Dunder Mifflin. MICHAEL SCOTT opens the door with a huge excited smile as KIM JONG UN steps in. Michael immediately starts singing in a playful, childish sing-song voice while pointing at him: “Kim Jong Un, Kim Jong Un… the coolest guy under the sun!” doing a little rhythmic dance with his hands. 0:04–0:07 — Michael keeps the song going and starts giving soft friendly punches to Kim’s stomach to the rhythm: “Kim Jong Un, Kim Jong Un… don’t be sad, just have some fun!” 0:07–0:10 — Kim tries hard to keep a straight face, his lips tightly pressed together, but his shoulders start shaking. He can’t hold it anymore and bursts out laughing. 0:10–0:13 — Michael freezes mid-punch, looks at Kim laughing, and immediately cracks up too. 0:13–0:15 — Both of them are laughing hard. Michael can barely stand while still holding one fist up. The video ends on the two of them completely breaking character."
+      }
+    },
+    "src": "x-mm-h3-05.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/techhalla/status/2084838553943449908",
+      "threadUrl": "https://twitter-thread.com/t/2084838553943449908",
+      "author": {
+        "name": "TechHalla",
+        "username": "techhalla"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "complete"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/1866164a-7dab-4e17-9586-77a98c7675a1"
+  },
+  {
+    "id": "x-mm-h3-06",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "Jim 与 Dwight 讨论编码智能体",
+        "en": "Jim and Dwight Discuss Coding Agents"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "Jim and Dwight from The Office discuss autonomous coding agents",
+        "en": "Jim and Dwight from The Office discuss autonomous coding agents"
+      }
+    },
+    "src": "x-mm-h3-06.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/venturetwins/status/2084353489061499021",
+      "threadUrl": "https://twitter-thread.com/t/2084353489061499021",
+      "author": {
+        "name": "Justine Moore",
+        "username": "venturetwins"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "complete"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/a274ccc4-e425-4166-9d06-003b051a4fa5"
+  },
+  {
+    "id": "x-mm-h3-07",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "节拍同步角色环境展示",
+        "en": "Beat-Synced Character Showcase"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "Use @[char ref] as the strict character reference and @[audio ref] as the timing, rhythm and editing reference.\n\nKeep the character’s exact identity, proportions, hairstyle, outfit, colors and overall style consistent throughout.\n\nCreate a 15-second cinematic burst-cut video showcasing the character across 5 different environments that naturally fit their design, vibe and world.\n\nAUDIO SYNC\nSynchronize the entire edit to @[audio ref]. Cuts, camera accents, transitions and environment changes should land precisely on strong beats, half-beats and musical accents. Let audio1 control the pacing and intensity of the montage.\n\nSTRUCTURE\n- 5 environments total\n- 3 seconds per environment\n- 6 burst-cut shots per environment\n- 30 shots total\n\nEach environment must be clearly different in atmosphere, lighting, scale and visual language.\n\nShow each environment through rapid cinematic angles: wide establishing shots, aerials, low angles, side views, tracking shots, close environmental details, medium shots and hero frames.\n\nEvery cut must reveal a new angle, distance, composition or spatial relationship. Avoid repeated framing. Mix static shots, push-ins, pull-backs, tracking, orbit and crane-like movement.\n\nKeep character movement subtle and natural. The focus is environmental variety, cinematic framing and tight synchronization with audio1.\n\nHard constraints:\n- exactly 5 environments\n- exactly 6 shots per environment\n- exactly 30 shots total\n- environment changes must follow audio1’s musical phrasing\n- cuts and motion accents synchronized to audio1\n- no outfit changes\n- no character duplication\n- no morphing\n- no text or UI\n- no blurry unreadable frames\n- maintain strict character consistency",
+        "en": "Use @[char ref] as the strict character reference and @[audio ref] as the timing, rhythm and editing reference.\n\nKeep the character’s exact identity, proportions, hairstyle, outfit, colors and overall style consistent throughout.\n\nCreate a 15-second cinematic burst-cut video showcasing the character across 5 different environments that naturally fit their design, vibe and world.\n\nAUDIO SYNC\nSynchronize the entire edit to @[audio ref]. Cuts, camera accents, transitions and environment changes should land precisely on strong beats, half-beats and musical accents. Let audio1 control the pacing and intensity of the montage.\n\nSTRUCTURE\n- 5 environments total\n- 3 seconds per environment\n- 6 burst-cut shots per environment\n- 30 shots total\n\nEach environment must be clearly different in atmosphere, lighting, scale and visual language.\n\nShow each environment through rapid cinematic angles: wide establishing shots, aerials, low angles, side views, tracking shots, close environmental details, medium shots and hero frames.\n\nEvery cut must reveal a new angle, distance, composition or spatial relationship. Avoid repeated framing. Mix static shots, push-ins, pull-backs, tracking, orbit and crane-like movement.\n\nKeep character movement subtle and natural. The focus is environmental variety, cinematic framing and tight synchronization with audio1.\n\nHard constraints:\n- exactly 5 environments\n- exactly 6 shots per environment\n- exactly 30 shots total\n- environment changes must follow audio1’s musical phrasing\n- cuts and motion accents synchronized to audio1\n- no outfit changes\n- no character duplication\n- no morphing\n- no text or UI\n- no blurry unreadable frames\n- maintain strict character consistency"
+      }
+    },
+    "src": "x-mm-h3-07.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/aimikoda/status/2086553240448241802",
+      "threadUrl": "https://twitter-thread.com/t/2086553240448241802",
+      "author": {
+        "name": "Kōda",
+        "username": "aimikoda"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "complete"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/4ed145a5-407d-492b-8a23-0412bf94b489"
+  },
+  {
+    "id": "x-mm-h3-08",
+    "category": "community",
+    "title": {
+      "fallback": {
+        "zh": "AI 替代不了 Joey",
+        "en": "AI Cannot Replace Joey"
+      }
+    },
+    "prompt": {
+      "originalLanguage": "en",
+      "fallback": {
+        "zh": "“Joey and Chandler sit side by side on the couch with coffee cups. Joey turns to Chandler with a completely sincere, concerned expression.\n\nDIALOGUE:\n\nJOEY: “Could AI replace us?”\n\nChandler slowly looks up from his coffee. Pauses. Looks Joey dead in the eye.\n\nCHANDLER: “Joey, AI cannot replace you. Nothing can replace you.”\n\nJoey nods slowly. Visibly relieved. Processing.\n\nJOEY: “Because I’m too good?”\n\nChandler stares at him. Long beat. He looks down at his coffee, then back up.\n\nCHANDLER: “…Sure. Let’s go with that.”\n\nSTYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, characters in casual clothing. Joey played completely straight — zero irony. Chandler delivers every line with exhausted deadpan sarcasm. Hold on Chandler’s face after the final line for a full beat before cut.”",
+        "en": "“Joey and Chandler sit side by side on the couch with coffee cups. Joey turns to Chandler with a completely sincere, concerned expression.\n\nDIALOGUE:\n\nJOEY: “Could AI replace us?”\n\nChandler slowly looks up from his coffee. Pauses. Looks Joey dead in the eye.\n\nCHANDLER: “Joey, AI cannot replace you. Nothing can replace you.”\n\nJoey nods slowly. Visibly relieved. Processing.\n\nJOEY: “Because I’m too good?”\n\nChandler stares at him. Long beat. He looks down at his coffee, then back up.\n\nCHANDLER: “…Sure. Let’s go with that.”\n\nSTYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, characters in casual clothing. Joey played completely straight — zero irony. Chandler delivers every line with exhausted deadpan sarcasm. Hold on Chandler’s face after the final line for a full beat before cut.”"
+      }
+    },
+    "src": "x-mm-h3-08.mp4",
+    "media": {
+      "images": [],
+      "videos": []
+    },
+    "source": {
+      "platform": "x",
+      "tweetUrl": "https://x.com/TechieBySA/status/2084600512180113820",
+      "threadUrl": "https://twitter-thread.com/t/2084600512180113820",
+      "author": {
+        "name": "TechieSA",
+        "username": "TechieBySA"
+      },
+      "archivedAt": "2026-08-12",
+      "promptStatus": "complete"
+    },
+    "readmeVideoUrl": "https://github.com/user-attachments/assets/a43c1430-7973-4786-973e-e413070ab832"
+  }
+]
