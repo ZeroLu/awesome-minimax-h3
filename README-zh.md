@@ -1,5 +1,7 @@
 # Awesome MiniMax H3
 
+![Awesome MiniMax H3 封面](./assets/awesome-minimax-h3-cover.png)
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-minimax-h3?style=social)](https://github.com/ZeroLu/awesome-minimax-h3/stargazers)
 
 | [English](./README.md) | [简体中文](./README-zh.md) |
