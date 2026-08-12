@@ -16,61 +16,27 @@
 
 ---
 
-## 一、儿童教育：把“字母教学”写成完整时间轴
+## 一、Sitcom / 情景喜剧：把对白、停顿和表情写进提示词
 
-![ABC Learning Explainer](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-01.gif)
+![AI Cannot Replace Joey](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-08.gif)
 
-这个案例不是简单写“做一个 ABC 教学动画”，而是把学习流程拆成固定模板：
+这个案例是经典情景喜剧式对白，也是 Sitcom 类提示词最值得放在第一位的例子：
 
-> LETTER → SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME
+> Joey 和 Chandler 坐在沙发上，拿着咖啡杯。Joey 真诚又担心地问：“AI 会取代我们吗？”
 
-中文理解就是：
+然后提示词继续写 Chandler 的表演：
 
-> 字母 → 发音 → 对应物体 → 有趣动作 → 物体名称
+> Chandler 慢慢从咖啡杯上抬头，停顿，直视 Joey。  
+> Chandler 用疲惫的冷幽默语气回答。  
+> 最后一行说完后，镜头在 Chandler 的脸上多停一拍再切。
 
-提示词还继续规定了受众、视觉风格、背景、每一秒发生什么，以及旁白怎么说。例如 A 的部分要求大写 A 和小写 a 出现，然后 A 变成红苹果，苹果有表情并轻轻弹跳，最后显示 `APPLE`，并高亮首字母 A。
+很多人做 AI 对话视频只写台词，忽略了喜剧真正依赖的是 **停顿、视线、反应和最后一拍**。这个案例把这些都写进去了，所以画面会更像 sitcom，而不是两个角色机械念台词。
 
-这个案例最值得学的是：**教育类视频不要只写主题，要写学习路径**。模型知道每一步的目标后，画面会更稳定，也更像真正给孩子看的内容。
-
----
-
-## 二、街头纪实：让模型处理“相机互动”和真实小动作
-
-![Street Photographer Candid Moment](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-02.gif)
-
-这个提示词的核心是一个很具体的街拍动作：
-
-> 一位年轻的西方女性街头摄影师走过热闹市中心，注意到咖啡馆外一位老人和他的小狗。她通过相机构图，拍下这一瞬间，然后把相机转向观众，骄傲地展示刚拍到的照片。
-
-后面继续追加约束：
-
-> 超写实画面、自然手持纪录片运动、真实相机互动、自然表情、准确手部动作、真实狗狗行为、自然日光、电影景深、角色一致性、沉浸式城市环境声。
-
-这个案例说明 MiniMax H3 类模型很吃“可表演动作”。你要把人物先看见什么、怎么拿相机、怎么展示结果、说什么话写出来，而不是只写“街头摄影师拍照”。
+Sitcom 类提示词的关键不是“搞笑设定”，而是 **角色关系、对白节奏、表情反应和镜头停顿**。
 
 ---
 
-## 三、电影动作：用“一镜到底”控制高速追逐
-
-![Speeder Chase Across a Cliff City](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-03.gif)
-
-这个案例是悬崖城市飞车追逐，提示词开头就定了关键规则：
-
-> Speeder chase across a cliff city (single continuous shot)
-
-中文意思是：
-
-> 悬崖城市中的飞车追逐，单个连续镜头。
-
-然后它不是泛泛描述“飞车很快”，而是把镜头路径写得非常具体：
-
-> 摄影机从巨大的石雕悬崖城市俯冲而下，锁定一束沿窄路疾驰的光。镜头先冲到前方，再甩回后方，贴近推进器；热浪、碎石、警示灯、坍塌阳台、拱门、晾衣绳、窗户连续出现，最后冲出城市，看到瀑布山谷和彩虹水雾。
-
-动作片提示词的关键不是形容词堆叠，而是 **空间路径**。把镜头怎么追、怎么穿、怎么转、最后怎么揭示大场景写清楚，模型才更容易生成“电影镜头”。
-
----
-
-## 四、社媒整活：用“假花絮”制造喜剧节奏
+## 二、Comic / 喜剧花絮：用“假花絮”制造喜剧节奏
 
 ![The Office Kim Jong Un Blooper](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-05.gif)
 
@@ -90,7 +56,61 @@
 
 ---
 
-## 五、音乐卡点：用结构化约束做 30 个镜头
+## 三、儿童教育：把“字母教学”写成完整时间轴
+
+![ABC Learning Explainer](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-01.gif)
+
+这个案例不是简单写“做一个 ABC 教学动画”，而是把学习流程拆成固定模板：
+
+> LETTER → SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME
+
+中文意思是：
+
+> 字母 → 发音 → 对应物体 → 有趣动作 → 物体名称
+
+提示词还继续规定了受众、视觉风格、背景、每一秒发生什么，以及旁白怎么说。例如 A 的部分要求大写 A 和小写 a 出现，然后 A 变成红苹果，苹果有表情并轻轻弹跳，最后显示 `APPLE`，并高亮首字母 A。
+
+这个案例最值得学的是：**教育类视频不要只写主题，要写学习路径**。模型知道每一步的目标后，画面会更稳定，也更像真正给孩子看的内容。
+
+---
+
+## 四、街头纪实：让模型处理“相机互动”和真实小动作
+
+![Street Photographer Candid Moment](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-02.gif)
+
+这个提示词的核心是一个很具体的街拍动作：
+
+> 一位年轻的西方女性街头摄影师走过热闹市中心，注意到咖啡馆外一位老人和他的小狗。她通过相机构图，拍下这一瞬间，然后把相机转向观众，骄傲地展示刚拍到的照片。
+
+后面继续追加约束：
+
+> 超写实画面、自然手持纪录片运动、真实相机互动、自然表情、准确手部动作、真实狗狗行为、自然日光、电影景深、角色一致性、沉浸式城市环境声。
+
+这个案例说明 MiniMax H3 类模型很吃“可表演动作”。你要把人物先看见什么、怎么拿相机、怎么展示结果、说什么话写出来，而不是只写“街头摄影师拍照”。
+
+---
+
+## 五、电影动作：用“一镜到底”控制高速追逐
+
+![Speeder Chase Across a Cliff City](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-03.gif)
+
+这个案例是悬崖城市飞车追逐，提示词开头就定了关键规则：
+
+> Speeder chase across a cliff city (single continuous shot)
+
+中文意思是：
+
+> 悬崖城市中的飞车追逐，单个连续镜头。
+
+然后它不是泛泛描述“飞车很快”，而是把镜头路径写得非常具体：
+
+> 摄影机从巨大的石雕悬崖城市俯冲而下，锁定一束沿窄路疾驰的光。镜头先冲到前方，再甩回后方，贴近推进器；热浪、碎石、警示灯、坍塌阳台、拱门、晾衣绳、窗户连续出现，最后冲出城市，看到瀑布山谷和彩虹水雾。
+
+动作片提示词的关键不是形容词堆叠，而是 **空间路径**。把镜头怎么追、怎么穿、怎么转、最后怎么揭示大场景写清楚，模型才更容易生成“电影镜头”。
+
+---
+
+## 六、音乐卡点：用结构化约束做 30 个镜头
 
 ![Beat-Synced Character Showcase](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-07.gif)
 
@@ -108,24 +128,6 @@
 还要求每次切换都落在强拍、半拍或音乐重音上，并且每个环境要在氛围、光线、尺度和视觉语言上明显不同。
 
 这个案例最适合总结成一句话：**卡点视频不要只写“跟着音乐剪”，要写镜头数量、环境数量、每段时长和切点规则。**
-
----
-
-## 六、情景喜剧：把对白、停顿和表情写进提示词
-
-![AI Cannot Replace Joey](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-08.gif)
-
-这个案例是经典情景喜剧式对白：
-
-> Joey 和 Chandler 坐在沙发上，拿着咖啡杯。Joey 真诚又担心地问：“AI 会取代我们吗？”
-
-然后提示词继续写 Chandler 的表演：
-
-> Chandler 慢慢从咖啡杯上抬头，停顿，直视 Joey。  
-> Chandler 用疲惫的冷幽默语气回答。  
-> 最后一行说完后，镜头在 Chandler 的脸上多停一拍再切。
-
-很多人做 AI 对话视频只写台词，忽略了喜剧真正依赖的是 **停顿、视线、反应和最后一拍**。这个案例把这些都写进去了，所以画面会更像 sitcom，而不是两个角色机械念台词。
 
 ---
 
