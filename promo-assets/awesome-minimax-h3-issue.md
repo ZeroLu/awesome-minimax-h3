@@ -18,7 +18,7 @@
 
 ## 一、情景喜剧：把对白、停顿和表情写进提示词
 
-![AI Cannot Replace Joey](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-08.gif)
+![AI Cannot Replace Joey](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-08.gif?v=20260813_compressed)
 
 **完整中文提示词：**
 
@@ -50,7 +50,7 @@
 
 ## 二、喜剧花絮：用“假花絮”制造喜剧节奏
 
-![The Office Kim Jong Un Blooper](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-05.gif)
+![The Office Kim Jong Un Blooper](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-05.gif?v=20260813_compressed)
 
 **完整中文提示词：**
 
@@ -74,7 +74,7 @@
 
 ## 三、儿童教育：把“字母教学”写成完整时间轴
 
-![ABC Learning Explainer](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-01.gif)
+![ABC Learning Explainer](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-01.gif?v=20260813_compressed)
 
 **完整中文提示词：**
 
@@ -184,7 +184,7 @@ D 的直线变成鸭子的脖子，弯曲部分变成圆润的黄色身体。一
 
 ## 四、街头纪实：让模型处理“相机互动”和真实小动作
 
-![Street Photographer Candid Moment](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-02.gif)
+![Street Photographer Candid Moment](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-02.gif?v=20260813_compressed)
 
 **完整中文提示词：**
 
@@ -200,7 +200,7 @@ D 的直线变成鸭子的脖子，弯曲部分变成圆润的黄色身体。一
 
 ## 五、电影动作：用“一镜到底”控制高速追逐
 
-![Speeder Chase Across a Cliff City](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-03.gif)
+![Speeder Chase Across a Cliff City](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-03.gif?v=20260813_compressed)
 
 **完整中文提示词：**
 
@@ -226,7 +226,7 @@ D 的直线变成鸭子的脖子，弯曲部分变成圆润的黄色身体。一
 
 ## 六、音乐卡点：用结构化约束做 30 个镜头
 
-![Beat-Synced Character Showcase](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-07.gif)
+![Beat-Synced Character Showcase](https://static.nanobananaproprompts.com/article_upload/awesome-minimax-h3_20260812/x-mm-h3-07.gif?v=20260813_compressed)
 
 **完整中文提示词：**
 
