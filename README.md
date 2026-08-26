@@ -1,4 +1,4 @@
-Last updated on 2026-08-25 01:14:05
+Last updated on 2026-08-26 01:16:32
 # Awesome MiniMax H3
 
 ![Awesome MiniMax H3 cover](./assets/awesome-minimax-h3-cover.png)
